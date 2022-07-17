@@ -16,7 +16,7 @@ namespace SpawnSystem
         private bool[,] _visited;
 
         #region Getters
-        // Realistically not needed after sending to Danyal
+        // Realistically not needed after handing file back to game developer.
         public List<HashSet<Tuple<int, int>>> GetPockets() => _pockets;
         public bool[,] GetVisited() => _visited;
         public int getBiggestPocketID => _biggestPocket;
