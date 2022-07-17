@@ -39,7 +39,7 @@ Included in this example is a 32x32 test map that is fundamentally the same as t
 ```
 
 ```cs
-private static int[,] testMap8x8 =
+private static int[,] testMapX32 =
 {
     {1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1},
     {1,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1},
